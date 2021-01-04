@@ -1,1 +1,1 @@
-# AngryBirds-2.0
+# AngryBirds2.0
